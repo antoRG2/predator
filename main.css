@@ -1,4 +1,34 @@
 ﻿body
 {
-    background-color:greenyellow;
+   /*background-color:greenyellow;*/ 
+}
+
+#PersonalInfo 
+{
+    background-color:pink;
+}
+
+#know 
+{
+    background-color:red;
+}
+
+#coverLet 
+{
+    background-color:orange;
+}
+
+#exper 
+{
+    background-color:yellow;
+}
+
+#project 
+{
+    background-color:green;
+}
+
+#hobbies 
+{
+    background-color:turquoise;
 }
