@@ -156,3 +156,4 @@ hobbies.display = function () {
 
     $('#hobbies').append(hobbiesDescription);
 }
+
